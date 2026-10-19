@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/TcpClient_autogen",
+	"CMAKE_BINARY_DIR" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/CAll/QT/project_1/TCPClient",
+	"CMAKE_SOURCE_DIR" : "D:/CAll/QT/project_1/TCPClient",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/TcpClient_autogen/include",
+	"INPUTS" : [ "D:/CAll/QT/project_1/TCPClient/Client.config" ],
+	"LOCK_FILE" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/TcpClient_autogen.dir/AutoRcc_config_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "config" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_config.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.11.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/TcpClient_autogen.dir/AutoRcc_config_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/CAll/QT/project_1/TCPClient/config.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

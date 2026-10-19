@@ -1,0 +1,9 @@
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/TcpClient.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/TcpClient_autogen_timestamp_deps.dir
+D:/CAll/QT/project_1/TCPClient/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/TcpClient_autogen.dir

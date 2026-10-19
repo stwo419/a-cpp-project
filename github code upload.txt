@@ -1,0 +1,16 @@
+git init 	//初始化暂存箱，若里面有东西，就不执行
+git add .将当前路径下的全放进暂存箱，git add server/ 将server放入暂存箱
+git commit -m "说明"
+git remote add origin http://github/xxxxxx.git origin是别名可以修改
+git branch -M main - 执行 git init 之后，本地默认分支名字是 `master`；把本地当前分支重命名为 main，和 GitHub 新建仓库默认分支名保持一致。
+
+git push -u origin main 
+
+第一次推送必须加 `-u` 作用：把本地 `main` 分支 和远程 `origin/main` 绑定。绑定之后，下次直接写 `git push` 就行，不用写全称
+
+初始化之后使用
+git add server/
+#2 本地提交
+git commit -m "text"
+#3 推送到github（已经绑定过-u，直接push）
+git push

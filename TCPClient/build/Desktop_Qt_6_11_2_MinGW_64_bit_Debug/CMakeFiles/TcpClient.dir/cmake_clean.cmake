@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/EWIEGA46WW/qrc_config.cpp.obj"
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/EWIEGA46WW/qrc_config.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/EWIEGA46WW/qrc_resource.cpp.obj"
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/EWIEGA46WW/qrc_resource.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/TcpClient.dir/TcpClient_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/directoryope.cpp.obj"
+  "CMakeFiles/TcpClient.dir/directoryope.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/friendwidget.cpp.obj"
+  "CMakeFiles/TcpClient.dir/friendwidget.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/main.cpp.obj"
+  "CMakeFiles/TcpClient.dir/main.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/online.cpp.obj"
+  "CMakeFiles/TcpClient.dir/online.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/openwidget.cpp.obj"
+  "CMakeFiles/TcpClient.dir/openwidget.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/privatechat.cpp.obj"
+  "CMakeFiles/TcpClient.dir/privatechat.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/protocol.cpp.obj"
+  "CMakeFiles/TcpClient.dir/protocol.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/share.cpp.obj"
+  "CMakeFiles/TcpClient.dir/share.cpp.obj.d"
+  "CMakeFiles/TcpClient.dir/tcpclient.cpp.obj"
+  "CMakeFiles/TcpClient.dir/tcpclient.cpp.obj.d"
+  "CMakeFiles/TcpClient_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/TcpClient_autogen.dir/ParseCache.txt"
+  "TcpClient_autogen"
+  "TcpClient.exe"
+  "TcpClient.exe.manifest"
+  "TcpClient.pdb"
+  "TcpClient_autogen/EWIEGA46WW/qrc_config.cpp"
+  "TcpClient_autogen/EWIEGA46WW/qrc_resource.cpp"
+  "libTcpClient.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TcpClient.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
